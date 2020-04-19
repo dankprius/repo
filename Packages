@@ -1,0 +1,25 @@
+Package: com.ioscreatix.sugarcane
+Name: SugarCane
+Filename: ./debs/com.ioscreatix.sugarcane_1.2-3+debug_iphoneos-arm
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Get percentages for the sliders in the Control Center on iOS 13
+Maintainer: iOS Creatix, kasiimh1, baptistecdr
+Author: iOS Creatix, kasiimh1, baptistecdr
+Section: Tweaks
+Version: 1.2-3+debug
+MD5sum: 5cca7febbf769caf3f7aea1e468520c4
+Size: 136
+
+Package: com.lpane.googlemapsdefault
+Name: GoogleMapsDefault
+Filename: ./debs/com.lpane.googlemapsdefault_0.0.1_iphoneos-arm
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: lpane
+Author: lpane
+Section: Tweaks
+Version: 0.0.1
+MD5sum: edee5c4abb0ff2c19a7e2f860cd32a8b
+Size: 152

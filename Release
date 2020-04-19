@@ -1,0 +1,8 @@
+Origin: dankrpius' Repo
+Label: dankprius
+Suite: stable
+Version: 1.0
+Codename: dankprius
+Architectures: iphoneos-arm
+Components: main
+Description: I post tweaks here I like or find useful.
